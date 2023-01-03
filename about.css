@@ -7,14 +7,6 @@
     height: auto;
     width: 100%;
 }
-.blog{
-    box-shadow: 1px 8px 24px rgba(111, 17, 17, 0.592);
-}
-.image{
-    box-shadow: 1px 5px 15px rgba(27, 10, 10, 0.84);
-    width: 100%;
-    height: auto;
-}
 .ul,li{
     padding: 15px;
     padding-left: 10%;
