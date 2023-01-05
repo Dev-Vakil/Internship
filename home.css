@@ -14,12 +14,13 @@
     box-shadow: 1px 8px 24px rgba(111, 17, 17, 0.592);
 }
 .text{
-    max-width: 400px;
+    max-width: 600px;
 }
 .image{
     box-shadow: 1px 5px 15px rgba(27, 10, 10, 0.84);
     width: 100%;
     height: auto;
+    max-height: 460px;
 }
 input[type=text], select, textarea {
     background-color:#fcfcfc;
